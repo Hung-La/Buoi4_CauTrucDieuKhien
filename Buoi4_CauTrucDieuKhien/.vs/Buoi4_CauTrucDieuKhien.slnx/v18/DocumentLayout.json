@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F730EA15-611B-435B-BB04-EC4443A68086}|Buoi4_Bai22\\Buoi4_Bai22.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F730EA15-611B-435B-BB04-EC4443A68086}|Buoi4_Bai22\\Buoi4_Bai22.csproj|solutionrelative:buoi4_bai22\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C877999C-A171-4F01-BA46-4C305DA7AC4A}|Buoi4_Bai19\\Buoi4_Bai19.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C877999C-A171-4F01-BA46-4C305DA7AC4A}|Buoi4_Bai19\\Buoi4_Bai19.csproj|solutionrelative:buoi4_bai19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2CA128-FCDF-4861-A91D-8FB79A742F93}|Buoi4_Bai11\\Buoi4_Bai11.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F2CA128-FCDF-4861-A91D-8FB79A742F93}|Buoi4_Bai11\\Buoi4_Bai11.csproj|solutionrelative:buoi4_bai11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C6F294-CB65-49BB-A489-AABAA64B3ABA}|Buoi4_Bai10\\Buoi4_Bai10.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C6F294-CB65-49BB-A489-AABAA64B3ABA}|Buoi4_Bai10\\Buoi4_Bai10.csproj|solutionrelative:buoi4_bai10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F342249-3AFF-4D10-9BF7-443B2A5C21DA}|Buoi4_Bai9\\Buoi4_Bai9.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F342249-3AFF-4D10-9BF7-443B2A5C21DA}|Buoi4_Bai9\\Buoi4_Bai9.csproj|solutionrelative:buoi4_bai9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08DD779E-913F-4B68-B213-2666E7A38621}|Buoi4_Bai8\\Buoi4_Bai8.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08DD779E-913F-4B68-B213-2666E7A38621}|Buoi4_Bai8\\Buoi4_Bai8.csproj|solutionrelative:buoi4_bai8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4410D8F4-6F38-429C-AFCF-E70EE21B1A8E}|Buoi4_Bai7\\Buoi4_Bai7.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4410D8F4-6F38-429C-AFCF-E70EE21B1A8E}|Buoi4_Bai7\\Buoi4_Bai7.csproj|solutionrelative:buoi4_bai7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B70508C-9EA5-47DA-AA45-FD2F85EBC4FF}|Buoi4_Bai6\\Buoi4_Bai6.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B70508C-9EA5-47DA-AA45-FD2F85EBC4FF}|Buoi4_Bai6\\Buoi4_Bai6.csproj|solutionrelative:buoi4_bai6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{286FF9BD-1C40-45E9-9618-13457B994C35}|Buoi4_Bai5\\Buoi4_Bai5.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{286FF9BD-1C40-45E9-9618-13457B994C35}|Buoi4_Bai5\\Buoi4_Bai5.csproj|solutionrelative:buoi4_bai5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86D3977-9071-440A-9254-59948F2309F1}|Buoi4_Bai4\\Buoi4_Bai4.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86D3977-9071-440A-9254-59948F2309F1}|Buoi4_Bai4\\Buoi4_Bai4.csproj|solutionrelative:buoi4_bai4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E5B5F14-7602-4013-8702-9ADDC6B1E312}|Buoi4_Bai3\\Buoi4_Bai3.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E5B5F14-7602-4013-8702-9ADDC6B1E312}|Buoi4_Bai3\\Buoi4_Bai3.csproj|solutionrelative:buoi4_bai3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74E0CF0A-6BEC-41D8-82ED-3B60E851AD36}|Buoi4_Bai2\\Buoi4_Bai2.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74E0CF0A-6BEC-41D8-82ED-3B60E851AD36}|Buoi4_Bai2\\Buoi4_Bai2.csproj|solutionrelative:buoi4_bai2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26D2DB83-727A-4111-BE06-E3B8F9D592AE}|Buoi4_Bai1\\Buoi4_Bai1.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26D2DB83-727A-4111-BE06-E3B8F9D592AE}|Buoi4_Bai1\\Buoi4_Bai1.csproj|solutionrelative:buoi4_bai1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1ADEDD-2562-EB02-8F76-C7C465968A6F}|Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien.csproj|d:\\dropbox\\mvc-pc control-machine vision\\buoi4-cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\buoi4_cautrucdieukhien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF1ADEDD-2562-EB02-8F76-C7C465968A6F}|Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien.csproj|solutionrelative:buoi4_cautrucdieukhien\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai19\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai19\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai19\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai19\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:20:52.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai22\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai22\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai22\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai22\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T15:16:31.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai11\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai11\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai11\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai11\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T14:27:01.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai10\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai10\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai10\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai10\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:42:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai9\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai9\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai9\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai9\\Program.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:23:41.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai8\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai8\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai8\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:12:08.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai7\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai7\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai7\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T13:04:57.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai6\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai6\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai6\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T12:48:15.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai5\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai5\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai5\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai5\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:26:59.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai4\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai4\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai4\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:22:03.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai3\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai3\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai3\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:20:00.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai2\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai2\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai2\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:11:53.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai1\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_Bai1\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_Bai1\\Program.cs",
+              "RelativeToolTip": "Buoi4_Bai1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T16:01:04.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Program.cs",
+              "RelativeDocumentMoniker": "Buoi4_CauTrucDieuKhien\\Program.cs",
+              "ToolTip": "D:\\Dropbox\\MVC-PC Control-Machine Vision\\Buoi4-CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Buoi4_CauTrucDieuKhien\\Program.cs",
+              "RelativeToolTip": "Buoi4_CauTrucDieuKhien\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAgwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T14:11:13.016Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

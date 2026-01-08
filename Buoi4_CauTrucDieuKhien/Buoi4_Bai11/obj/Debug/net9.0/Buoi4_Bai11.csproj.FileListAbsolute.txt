@@ -1,0 +1,14 @@
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\bin\Debug\net9.0\Buoi4_Bai11.exe
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\bin\Debug\net9.0\Buoi4_Bai11.deps.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\bin\Debug\net9.0\Buoi4_Bai11.runtimeconfig.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\bin\Debug\net9.0\Buoi4_Bai11.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\bin\Debug\net9.0\Buoi4_Bai11.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.AssemblyInfoInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.AssemblyInfo.cs
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.csproj.CoreCompileInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\refint\Buoi4_Bai11.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\Buoi4_Bai11.genruntimeconfig.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_Bai11\obj\Debug\net9.0\ref\Buoi4_Bai11.dll

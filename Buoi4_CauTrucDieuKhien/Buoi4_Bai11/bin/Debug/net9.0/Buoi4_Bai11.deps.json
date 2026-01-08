@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Buoi4_Bai11/1.0.0": {
+        "runtime": {
+          "Buoi4_Bai11.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Buoi4_Bai11/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

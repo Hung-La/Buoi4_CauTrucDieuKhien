@@ -1,0 +1,14 @@
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\bin\Debug\net9.0\Buoi4_CauTrucDieuKhien.exe
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\bin\Debug\net9.0\Buoi4_CauTrucDieuKhien.deps.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\bin\Debug\net9.0\Buoi4_CauTrucDieuKhien.runtimeconfig.json
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\bin\Debug\net9.0\Buoi4_CauTrucDieuKhien.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\bin\Debug\net9.0\Buoi4_CauTrucDieuKhien.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.AssemblyInfoInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.AssemblyInfo.cs
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.csproj.CoreCompileInputs.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\refint\Buoi4_CauTrucDieuKhien.dll
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.pdb
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\Buoi4_CauTrucDieuKhien.genruntimeconfig.cache
+D:\Dropbox\MVC-PC Control-Machine Vision\Buoi4-CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\Buoi4_CauTrucDieuKhien\obj\Debug\net9.0\ref\Buoi4_CauTrucDieuKhien.dll
